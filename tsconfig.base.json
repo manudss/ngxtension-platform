@@ -128,6 +128,9 @@
 			"ngxtension/trackby-id-prop": [
 				"libs/ngxtension/trackby-id-prop/src/index.ts"
 			],
+			"ngxtension/wait-for-to-signal": [
+				"libs/ngxtension/wait-for-to-signal/src/index.ts"
+			],
 			"plugin": ["libs/plugin/src/index.ts"]
 		}
 	},
